@@ -1,13 +1,20 @@
 {
     "version": "0.2.0",
     "configurations": [
-    {
-        "name": "Run Go code",
-        "type": "go",
-        "request": "launch",
-        "mode": "auto",
-        "program": "${fileDirname}"
-    },
+        {
+            "type": "java",
+            "name": "Launch hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "bcug_89bbc69a"
+        },
+        {
+            "name": "Run Go code",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${fileDirname}"
+        },
         {
             "type": "java",
             "name": "Launch hello",

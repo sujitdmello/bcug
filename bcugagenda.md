@@ -48,6 +48,15 @@
 
 [Download PyCharm](https://www.jetbrains.com/pycharm/download/#section=windows)
 
+## Postman
+
+- Interact with web-based API servers
+- GET, POST, PUT, DELETE, PATCH commands can be executed and data inspected.
+- Save commands for playback later
+- Save collections of commands to the cloud to sync across devices
+
+[Download Postman](https://www.postman.com/downloads/)
+
 ## Audacity Audio Editor
 
 - Free, open-source audio editor with all the bells and whistles.
