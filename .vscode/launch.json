@@ -1,0 +1,35 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+    {
+        "name": "Run Go code",
+        "type": "go",
+        "request": "launch",
+        "mode": "auto",
+        "program": "${fileDirname}"
+    },
+        {
+            "type": "java",
+            "name": "Launch hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "gotest_328a1bf3"
+        },
+        {
+            "name": ".NET Core Launch (console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/hello/bin/Debug/net7.0/hello.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/hello",
+            "console": "internalConsole",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        }
+    ]
+}
