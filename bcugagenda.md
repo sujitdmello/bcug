@@ -38,6 +38,7 @@
 - Least-friction to do Java development on Windows (or Mac)
 - Automatically handles java runtime downloads, debugging, package downloading etc.
 - Lifetime automatic updates
+- Published by JetBrains
 
 [Download IntelliJ CE](https://www.jetbrains.com/idea/download/#section=windows)
 
@@ -53,7 +54,7 @@
 ## Postman
 
 - Interact with web-based API servers
-- GET, POST, PUT, DELETE, PATCH commands can be executed and data inspected.
+- GET, POST, PUT, DELETE, PATCH commands can be executed and input/output data manipulated/inspected.
 - Save commands for playback later
 - Save collections of commands to the cloud to sync across devices
 
@@ -63,7 +64,7 @@
 
 - Free, open-source audio editor with all the bells and whistles.
 - Automatically integrated with ffmpeg for conversions to/from video formats.
-- Published by JetBrains
+- Actively developed and supported by the community
 
 [Download Audacity](https://www.audacityteam.org/download/)
 
@@ -77,10 +78,10 @@
 
 ## Process Monitor
 
-- Free Windows-only utility that shows intimate details of all the files, registries, network resource etc. that an Windows application is using.
+- Free Windows-only utility that shows intimate details of all the files, registries, network resource etc. that a Windows application is using.
 - Great for determining why your computer is running slow, or what a suspicious application is doing.
-- Can monitor all processes (slow) or can filter for specific file.
-- Can record all activity to a file and analyze later offline.
+- Can monitor all processes (this can stress your computer) or can filter for specific file or other criteria.
+- Can record all activity to a file and analyze later offline (useful for boot-up problems).
 
 [Download Process Monitor](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon)
 
