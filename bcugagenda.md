@@ -22,16 +22,18 @@
 - Open multiple tabs for Windows, WSL, PowerShell etc.
 - Various color profiles
 
-[Install free from Windows Store](https://www.microsoft.com/store/productId/9N0DX20HK701)
+[Install free from Microsoft Store](https://www.microsoft.com/store/productId/9N0DX20HK701)
 
-## Visual Studio 2022 (Community Edition)
+## Language-specific IDEs
+
+### Visual Studio 2022 (Community Edition)
 
 - The best .NET/C# integrated development environment (IDE).
 - Excellent development and debugging experience for Windows, Mobile, Web and Cloud apps.
 
 [Download VS 2022 Community Edition](https://visualstudio.microsoft.com/vs/community/)
 
-## IntelliJ IDEA Community Edition
+### IntelliJ IDEA Community Edition
 
 - Least-friction to do Java development on Windows (or Mac)
 - Automatically handles java runtime downloads, debugging, package downloading etc.
@@ -39,7 +41,7 @@
 
 [Download IntelliJ CE](https://www.jetbrains.com/idea/download/#section=windows)
 
-## PyCharm Community Edition
+### PyCharm Community Edition
 
 - Least-friction to do Python development on Windows (or Mac)
 - Automatically handles Python runtime downloads, debugging, package downloading etc.
@@ -96,3 +98,5 @@
 - Works better when paired with a Surface and a Stylus/Pen.
 - Great for brainstorming ideas.
 - Syncs to the cloud using Microsoft ID.
+
+[Install free from Microsoft Store](https://www.microsoft.com/store/productId/9MSPC6MP8FM4)
