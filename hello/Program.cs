@@ -5,7 +5,7 @@ namespace Test
     {
         public static void Main()
         {
-            Console.WriteLine("Hello, BCUG!");
+            Console.WriteLine("Hello, BCUG from .NET/C#!");
         }
     }
 }
