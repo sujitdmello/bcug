@@ -1,4 +1,4 @@
-# Sujit's Top 10 Windows Apps
+# Sujit's Top Windows Apps
 
 ## Visual Studio Code (VSCode)
 
