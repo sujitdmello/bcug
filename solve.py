@@ -16,3 +16,9 @@ sol2 = (-b+cmath.sqrt(d))/(2*a)
 
 print('The solutions are {0} and {1}'.format(sol1, sol2))
 
+# Download the content from https://bcug.com and display it on the console
+url = "https://bcug.com"
+response = urllib.request.urlopen(url)
+data = response.read()
+text = data.decode('utf-8')
+print(text)
